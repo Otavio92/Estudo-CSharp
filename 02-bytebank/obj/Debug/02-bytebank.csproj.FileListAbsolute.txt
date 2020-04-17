@@ -1,0 +1,14 @@
+C:\Users\otavio.ramos\Desktop\programing\Csharp\ByteBank\02-bytebank\bin\Debug\02-bytebank.exe.config
+C:\Users\otavio.ramos\Desktop\programing\Csharp\ByteBank\02-bytebank\bin\Debug\02-bytebank.exe
+C:\Users\otavio.ramos\Desktop\programing\Csharp\ByteBank\02-bytebank\bin\Debug\02-bytebank.pdb
+C:\Users\otavio.ramos\Desktop\programing\Csharp\ByteBank\02-bytebank\obj\Debug\02-bytebank.csprojResolveAssemblyReference.cache
+C:\Users\otavio.ramos\Desktop\programing\Csharp\ByteBank\02-bytebank\obj\Debug\02-bytebank.csproj.CoreCompileInputs.cache
+C:\Users\otavio.ramos\Desktop\programing\Csharp\ByteBank\02-bytebank\obj\Debug\02-bytebank.exe
+C:\Users\otavio.ramos\Desktop\programing\Csharp\ByteBank\02-bytebank\obj\Debug\02-bytebank.pdb
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\02-bytebank\bin\Debug\02-bytebank.exe.config
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\02-bytebank\bin\Debug\02-bytebank.exe
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\02-bytebank\bin\Debug\02-bytebank.pdb
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\02-bytebank\obj\Debug\02-bytebank.csprojResolveAssemblyReference.cache
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\02-bytebank\obj\Debug\02-bytebank.csproj.CoreCompileInputs.cache
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\02-bytebank\obj\Debug\02-bytebank.exe
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\02-bytebank\obj\Debug\02-bytebank.pdb
