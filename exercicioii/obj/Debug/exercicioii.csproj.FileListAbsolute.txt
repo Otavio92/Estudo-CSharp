@@ -1,0 +1,7 @@
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\exercicioii\obj\Debug\exercicioii.csproj.CoreCompileInputs.cache
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\exercicioii\bin\Debug\exercicioii.exe.config
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\exercicioii\bin\Debug\exercicioii.exe
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\exercicioii\bin\Debug\exercicioii.pdb
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\exercicioii\obj\Debug\exercicioii.csprojResolveAssemblyReference.cache
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\exercicioii\obj\Debug\exercicioii.exe
+C:\Users\otavio.ramos\Desktop\programing\C#\ByteBank\exercicioii\obj\Debug\exercicioii.pdb
